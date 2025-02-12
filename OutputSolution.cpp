@@ -17,7 +17,7 @@ void OutputSolution::print(){
 	cout << "Output: " << result << endl;
 	cout << "============ Check ============" << endl;
 	cout << (check() ? "Success" : "Failed") << endl;
-	cout << "================================" << endl;
+	cout << "================================\n" << endl;
 }
 
 bool OutputSolution::check(){
