@@ -1,9 +1,5 @@
 # 3. Longest Substring Without Repeating Characters
-Solved
-Medium
-Topics
-Companies
-Hint
+
 Given a string s, find the length of the longest 
 substring
  without repeating characters.
@@ -34,11 +30,7 @@ Constraints:
 s consists of English letters, digits, symbols and spaces.
 
 # 3. Самая длинная подстрока Без повторяющихся символов
-Решено
-Средний
-Темы
-Компании
-Подсказка
+
 По заданной строке s найдите длину самой длинной 
 подстрока
  без повторяющихся символов.
