@@ -128,9 +128,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="3. Longest Substring Without Repeating Characters CPP.cpp" />
+    <ClCompile Include="CheckResult.cpp" />
+    <ClCompile Include="OutputSolution.cpp" />
     <ClCompile Include="Solution.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CheckResult.h" />
+    <ClInclude Include="OutputSolution.h" />
     <ClInclude Include="Solution.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
